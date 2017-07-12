@@ -25,4 +25,4 @@ To run without a wheel, it is necessary to close the at least one signal pin to 
 
 * 6 - G, D, C, SWD are unsoldered. Microcontroller is STM32F103C8T6. Closed Fuse for reading.
 
-**Details from http://electrotransport.ru/ussr/index.php?PHPSESSID=mpl26nqjfisk1q04l0sk0mir06&topic=43910.306#topmsg**
+**Details from [Electrotransport.ru forum](http://electrotransport.ru/ussr/index.php?PHPSESSID=mpl26nqjfisk1q04l0sk0mir06&topic=43910.306#topmsg)**
