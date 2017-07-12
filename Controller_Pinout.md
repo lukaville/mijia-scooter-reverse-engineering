@@ -1,4 +1,4 @@
-**Controller Pinout :**
+# **Controller Pinout :**
 
 * 1 -Power plug. 
 
